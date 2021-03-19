@@ -15,7 +15,7 @@ for dir_ in dirs:
         pass
 
 files = [
-    "dav.yaml",
+    "dvc.yaml",
     "params.yaml",
     ".gitignore",
     os.path.join("src/__init__.py"),
